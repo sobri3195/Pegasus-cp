@@ -32,7 +32,7 @@ This software is distributed under the GNU General Public License version 3 (GPL
 THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY! IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT. BY USING THIS SOFTWARE YOU AGREE WITH THESE TERMS.
 
 ##Created by
-dr. Muhammad Sobri Maulana, CEH, OSCP
+Muhammad Sobri Maulana
 Fakultas Kedokteran Universitas Indonesia 2013
 CEO & Founder Cyber Security Down (cybersecuritydown.or.id)
 CEO Ping
